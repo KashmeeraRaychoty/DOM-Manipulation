@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.counterContainer   {
+    width: 250px;
+    text-align: center;
+    background-color: beige;
+    margin: 10px;
+}
+.counterHeading {
+    text-align: center;
+}
+#countValue {
+    border: 2px solid black;
+    margin: 10px;
+}
+button {
+    width: 50px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: black;
+    margin: 10px;
+}
+#timerValue {
+    border: 2px solid black;
+    margin: 10px;
+}
+.timerContainer {
+    width: 250px;
+    text-align: center;
+    background-color: bisque;
+    margin: 10px;
+}
